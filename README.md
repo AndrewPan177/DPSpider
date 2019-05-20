@@ -1,3 +1,3 @@
 # DPSpider
 大众点评数据爬取
-主要爬取功能为crawlDP.py文件所提供，其余为针对需求所进行的相关数据处理
+主要爬取功能为crawlDP.py文件所提供；DataProcess主要用于将所获取的数据进行清理，并且通过BMap API 进行地址编码；DataAnalysis主要为针对需求所进行的相关数据处理。
